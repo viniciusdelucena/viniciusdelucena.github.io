@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.viniciusdelucena.metrify",
+    "sha256_cert_fingerprints": ["F5:32:F1:6A:29:2B:AD:8C:64:07:71:83:8E:56:BA:7E:F1:5C:FF:E6:7A:35:A7:3B:4E:31:A8:AE:B7:F7:56:FF"]
+  }
+}]
